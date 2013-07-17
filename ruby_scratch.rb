@@ -6,5 +6,7 @@ class Fish
         @color = color
         @species = species
         @appetite_level = 10
+        # @element = ElementjQuery.new
     end
+
 end
